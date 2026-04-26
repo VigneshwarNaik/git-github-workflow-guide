@@ -55,13 +55,21 @@ It focuses on practical understanding such as:
 ```text id="bt9vg4"
 git-github-workflow-guide/
 │── README.md
+│── assets/
+│   └── workflow-banner.png
 │── 01-Introduction/
+│   └── intro.md
 │── 02-Workflows/
 │   ├── 01-Git-Flow/
+│   │   └── git-flow.md
 │   ├── 02-GitHub-Flow/
+│   │   └── github-flow.md
 │   └── 03-Trunk-Based-Development/
+│       └── trunk-based.md
 │── 03-Commands/
-│── 04-Interview/
+│   └── commands.md
+│── 04-Interview-Questions/
+│   └── git-interview.md
 ```
 
 ---
