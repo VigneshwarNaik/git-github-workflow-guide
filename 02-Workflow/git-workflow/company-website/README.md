@@ -1,4 +1,4 @@
-# 🚀 Developer 1 & Developer 2 Git Workflow Scenario
+# 🚀 Developer 1 & Developer 2 branch
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
