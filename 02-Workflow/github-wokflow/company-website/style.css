@@ -24,3 +24,12 @@ h1{
   text-align:center;
   margin-top:40px;
 }
+
+/* dev 2 */
+footer{
+  background:#222;
+  color:white;
+  text-align:center;
+  padding:15px;
+  margin-top:50px;
+}
