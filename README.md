@@ -29,7 +29,7 @@ Both are essential tools in modern software development.
 | Section                | Link                                       |
 | ---------------------- | ------------------------------------------ |
 | 📘 Introduction        | [Open](./01-Introduction/README.md)        |
-| 🔄 Workflows           | [Open](./02-Workflows/)                    |
+| 🔄 Workflows           | [Open](./02-Workflows/README.md)                    |
 | ⚡ Commands             | [Open](./03-Commands/README.md)            |
 | 🎯 Interview Questions | [Open](./04-Interview-Questions/README.md) |
 
@@ -40,7 +40,6 @@ Both are essential tools in modern software development.
 * 📌 [Introduction](#-introduction)
 * 🎯 [Why This Repository](#-why-this-repository)
 * 📂 [Repository Structure](#-repository-structure)
-* 🌿 [Workflow Models](#-workflow-models)
 * 👤 [Author](#-author)
 * ⭐ [Support](#-support)
 
