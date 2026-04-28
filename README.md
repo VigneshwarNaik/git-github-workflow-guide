@@ -97,48 +97,9 @@ git-github-workflow-guide/
 └── LICENSE
 ```
 
----
-
-## 🌿 Workflow Models
-
-### 1️⃣ Git Flow
-
-Used in structured enterprise projects with defined release cycles.
-👉 [View Example](./02-Workflows/git-flow/)
-
----
-
-### 2️⃣ GitHub Flow
-
-Used in modern web applications with continuous deployment.
-👉 [View Example](./02-Workflows/github-flow/)
-
----
-
-### 3️⃣ Trunk-Based Development
-
-Used in high-performance teams with continuous integration.
-👉 [View Example](./02-Workflows/trunk-based/)
-
----
-
-## ⚙️ Core Concepts
-
-* Repository
-* Commit
-* Branch
-* Merge
-* Pull Request
-* Rebase
-* Conflict Resolution
-* Release Management
-
----
-
 ## 👤 Author
 
 **Vigneshwar Naik**
-MCA Graduate | Java Backend Developer
 
 ---
 
@@ -152,8 +113,3 @@ If you found this repository helpful:
 
 ---
 
-## 📝 Note
-
-This repository is maintained as a **professional learning and reference project** for Git and GitHub workflows.
-
----
