@@ -1,96 +1,128 @@
 # 🚀 Ultimate Git & GitHub Workflow Guide
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Status-Industry--Ready-success?style=for-the-badge" alt="Status" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Industry--Ready-success?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <strong>Master the version control workflows used by top tech companies like Google, Meta, and Netflix.</strong>
+  <strong>Master version control workflows used by top tech companies.</strong>
   <br />
-  A curated roadmap for developers to transition from basic Git commands to managing real enterprise workflows.
+  A structured roadmap to move from basic Git usage to real-world team workflows.
 </p>
 
 ---
 
-# 📌 Introduction
+## 📌 Introduction
 
-Git is a **Version Control System** used to track changes in source code over time.
+Git is a **Version Control System (VCS)** used to track changes in source code.
 
-GitHub is a cloud-based platform used to host Git repositories and enable collaboration among developers.
+GitHub is a **cloud platform** that hosts Git repositories and enables collaboration among developers.
 
 Both are essential tools in modern software development.
 
 ---
 
-## 📑 Table of Contents
+## 📂 Quick Navigation (Start Here)
 
-* 📌 Introduction
-* 🎯 Why This Repository
-* 📂 Repository Structure
-* 🌿 Workflow Models
-* ⚙️ Core Concepts
-* 👤 Author
-* ⭐ Support
+| Section                | Link                                       |
+| ---------------------- | ------------------------------------------ |
+| 📘 Introduction        | [Open](./01-Introduction/README.md)        |
+| 🔄 Workflows           | [Open](./02-Workflows/)                    |
+| ⚡ Commands             | [Open](./03-Commands/README.md)            |
+| 🎯 Interview Questions | [Open](./04-Interview-Questions/README.md) |
 
 ---
 
-# 🎯 Why This Repository
+## 📑 Table of Contents
 
-This repository is created to document and organize knowledge of Git, GitHub, and professional workflows used in software teams.
+* 📌 [Introduction](#-introduction)
+* 🎯 [Why This Repository](#-why-this-repository)
+* 📂 [Repository Structure](#-repository-structure)
+* 🌿 [Workflow Models](#-workflow-models)
+* 👤 [Author](#-author)
+* ⭐ [Support](#-support)
 
-It focuses on practical understanding such as:
+---
+
+## 🎯 Why This Repository
+
+This repository is created to provide a **practical understanding of Git and GitHub workflows** used in real development teams.
+
+It focuses on:
 
 * Branching strategies
 * Pull Requests
 * Merge conflicts
-* Collaboration process
+* Team collaboration
 * Real project workflows
 
 ---
 
-# 📂 Repository Structure
+## 📂 Repository Structure
 
-```text id="bt9vg4"
+```text
 git-github-workflow-guide/
-│── README.md
-│── assets/
-│   └── workflow-banner.png
-│── 01-Introduction/
-│   └── intro.md
-│── 02-Workflows/
-│   ├── 01-Git-Flow/
-│   │   └── git-flow.md
-│   ├── 02-GitHub-Flow/
-│   │   └── github-flow.md
-│   └── 03-Trunk-Based-Development/
-│       └── trunk-based.md
-│── 03-Commands/
-│   └── commands.md
-│── 04-Interview-Questions/
-│   └── git-interview.md
+│
+├── 01-Introduction/
+│   └── README.md
+│
+├── 02-Workflows/
+│   ├── trunk-based/
+│   │   └── company-website/
+│   │       ├── index.html
+│   │       ├── style.css
+│   │       └── README.md
+│   │
+│   ├── git-flow/
+│   │   └── company-website/
+│   │       ├── index.html
+│   │       ├── style.css
+│   │       └── README.md
+│   │
+│   └── github-flow/
+│       └── company-website/
+│           ├── index.html
+│           ├── style.css
+│           └── README.md
+│
+├── 03-Commands/
+│   └── README.md
+│
+├── 04-Interview-Questions/
+│   └── README.md
+│
+├── README.md
+└── LICENSE
 ```
 
 ---
 
-# 🌿 Workflow Models
+## 🌿 Workflow Models
 
 ### 1️⃣ Git Flow
 
-Used in structured enterprise projects with release cycles.
-
-### 2️⃣ GitHub Flow
-
-Used in startups and web products with fast deployment.
-
-### 3️⃣ Trunk-Based Development
-
-Used in modern engineering teams with continuous integration.
+Used in structured enterprise projects with defined release cycles.
+👉 [View Example](./02-Workflows/git-flow/)
 
 ---
 
-# ⚙️ Core Concepts
+### 2️⃣ GitHub Flow
+
+Used in modern web applications with continuous deployment.
+👉 [View Example](./02-Workflows/github-flow/)
+
+---
+
+### 3️⃣ Trunk-Based Development
+
+Used in high-performance teams with continuous integration.
+👉 [View Example](./02-Workflows/trunk-based/)
+
+---
+
+## ⚙️ Core Concepts
 
 * Repository
 * Commit
@@ -103,19 +135,25 @@ Used in modern engineering teams with continuous integration.
 
 ---
 
-# 👤 Author
+## 👤 Author
 
 **Vigneshwar Naik**
 MCA Graduate | Java Backend Developer
 
 ---
 
-# ⭐ Support
+## ⭐ Support
 
-If you found this repository useful, please give it a **Star** on GitHub.
+If you found this repository helpful:
+
+* ⭐ Star this repo
+* 🔁 Share it
+* 🍴 Fork it
 
 ---
 
-# 📝 Note
+## 📝 Note
 
-This repository is maintained as a professional notes project for learning Git and GitHub workflows.
+This repository is maintained as a **professional learning and reference project** for Git and GitHub workflows.
+
+---
